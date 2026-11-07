@@ -27,6 +27,7 @@ import difflib
 import json
 import random
 import re
+import sys
 import time
 import unicodedata
 from pathlib import Path
@@ -818,6 +819,10 @@ def main(avec_benchmark=True):
 
 
 if __name__ == "__main__":
+    # Console Windows : forcer l'UTF-8 pour que les accents s'affichent correctement
+    for flux in (sys.stdout, sys.stderr):
+        if hasattr(flux, "reconfigure"):
+            flux.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-bench", action="store_true", help="ne pas lancer le benchmark")
     main(avec_benchmark=not ap.parse_args().no_bench)
