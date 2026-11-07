@@ -1,0 +1,77 @@
+enseigne,ref_source,libelle_brut,produit_id,nom,categorie,score_rapprochement,prix_affiche,remise_pct,frais_livraison,prix_paye,statut,disponible,retenue,motif_exclusion,mode,note,nb_avis,date_maj
+Baobab Shop,BB01412,Galaxy A15 128GB - Samsung,P01,Samsung Galaxy A15 128 Go,Smartphone,1.0,102500.0,0.0,1500,104000.0,Stock limité,True,True,,livraison payante,3.5,475,2026-10-31
+Comptoir Ivoire,CI200,Samsun Galaxy A15 128Go,P01,Samsung Galaxy A15 128 Go,Smartphone,1.0,109400.0,15.0,0,92990.0,En stock,True,True,,retrait en boutique,,0,2026-10-03
+Marché Lagune,ML-1000,SAMSUNG GALAXY A15 (128GB),P01,Samsung Galaxy A15 128 Go,Smartphone,1.0,102900.0,0.0,0,102900.0,Rupture,False,False,rupture de stock,livraison incluse,4.0,103,
+Baobab Shop,BB02609,Galaxy A25 128GB - Samsung,P02,Samsung Galaxy A25 128 Go,Smartphone,1.0,140500.0,0.0,1500,142000.0,En stock,True,True,,livraison payante,3.69,181,2026-10-31
+Comptoir Ivoire,CI201,Samsung A25 128Go,P02,Samsung Galaxy A25 128 Go,Smartphone,0.89,150300.0,0.0,0,150300.0,En stock,True,True,,retrait en boutique,,0,2026-10-24
+Marché Lagune,ML-1007,SAMSUNG GALAXY A25 (128GB),P02,Samsung Galaxy A25 128 Go,Smartphone,1.0,151500.0,0.0,0,151500.0,En stock,True,True,,livraison incluse,3.4,76,
+Baobab Shop,BB03433,Galaxy A55 256GB - Samsung,P03,Samsung Galaxy A55 256 Go,Smartphone,1.0,273800.0,0.0,0,273800.0,Rupture,False,False,rupture de stock,livraison offerte,3.96,539,2026-10-31
+Marché Lagune,ML-1014,SAMSUNG GALAXY A55 (256GB),P03,Samsung Galaxy A55 256 Go,Smartphone,1.0,288100.0,0.0,0,288100.0,Rupture,False,False,rupture de stock,livraison incluse,4.8,184,
+Baobab Shop,BB04915,Spark 20 128GB - Tecno,P04,Tecno Spark 20 128 Go,Smartphone,1.0,73500.0,0.0,1500,75000.0,En stock,True,True,,livraison payante,4.59,868,2026-10-31
+Comptoir Ivoire,CI202,Tecno Spark 20,P04,Tecno Spark 20 128 Go,Smartphone,0.67,76300.0,0.0,0,76300.0,En stock,True,True,,retrait en boutique,,0,2026-10-03
+Marché Lagune,ML-1021,TECNO SPARK 20 - 128GB,P04,Tecno Spark 20 128 Go,Smartphone,1.0,77900.0,0.0,0,77900.0,En stock,True,True,,livraison incluse,4.2,254,
+Baobab Shop,BB05319,Camon 30 256GB - Tecno,P05,Tecno Camon 30 256 Go,Smartphone,1.0,133900.0,0.0,1500,135400.0,Stock limité,True,True,,livraison payante,4.82,899,2026-10-31
+Marché Lagune,ML-1028,TECNO CAMON 30 - 256GB,P05,Tecno Camon 30 256 Go,Smartphone,1.0,136900.0,0.0,0,136900.0,Stock limité,True,True,,livraison incluse,4.8,148,
+Baobab Shop,BB06565,Hot 40i 128GB - Infinix,P06,Infinix Hot 40i 128 Go,Smartphone,1.0,68000.0,0.0,1500,69500.0,En stock,True,True,,livraison payante,3.89,802,2026-10-31
+Comptoir Ivoire,CI203,Infinix Hot 40i,P06,Infinix Hot 40i 128 Go,Smartphone,0.67,70700.0,5.0,0,67165.0,En stock,True,True,,retrait en boutique,,0,2026-10-10
+Marché Lagune,ML-1035,INFINIX HOT 40I 128GB,P06,Infinix Hot 40i 128 Go,Smartphone,1.0,69200.0,0.0,0,69200.0,En stock,True,True,,livraison incluse,4.6,224,
+Baobab Shop,BB07953,Note 40 256GB - Infinix,P07,Infinix Note 40 256 Go,Smartphone,1.0,131200.0,0.0,1500,132700.0,En stock,True,True,,livraison payante,3.51,27,2026-10-31
+Marché Lagune,ML-1042,INFINIX NOTE 40 256GB,P07,Infinix Note 40 256 Go,Smartphone,1.0,132400.0,0.0,0,132400.0,En stock,True,True,,livraison incluse,4.8,217,
+Comptoir Ivoire,CI204,Itel A70,P08,Itel A70 64 Go,Smartphone,0.62,45200.0,5.0,0,42940.0,Stock limité,True,True,,retrait en boutique,,0,2026-10-03
+Marché Lagune,ML-1049,ITEL A70 64GB,P08,Itel A70 64 Go,Smartphone,1.0,45700.0,0.0,0,45700.0,Rupture,False,False,rupture de stock,livraison incluse,4.4,255,
+Baobab Shop,BB09460,iPhone 13 128GB - Apple,P09,Apple iPhone 13 128 Go,Smartphone,1.0,417200.0,0.0,0,417200.0,En stock,True,True,,livraison offerte,3.8,703,2026-10-31
+Comptoir Ivoire,CI205,iPhone 13 128Go,P09,Apple iPhone 13 128 Go,Smartphone,0.78,443700.0,0.0,0,443700.0,En stock,True,True,,retrait en boutique,,0,2026-10-03
+Marché Lagune,ML-1056,IPHONE 13 128GB,P09,Apple iPhone 13 128 Go,Smartphone,0.78,433700.0,0.0,0,433700.0,En stock,True,True,,livraison incluse,4.0,230,
+Baobab Shop,BB10686,Redmi Note 13 128GB - Xiaomi,P10,Xiaomi Redmi Note 13 128 Go,Smartphone,1.0,132600.0,0.0,1500,134100.0,En stock,True,True,,livraison payante,3.57,635,2026-10-31
+Marché Lagune,ML-1063,XIAOMI REDMI NOTE 13 128GB,P10,Xiaomi Redmi Note 13 128 Go,Smartphone,1.0,136900.0,0.0,0,136900.0,En stock,True,True,,livraison incluse,4.2,42,
+Baobab Shop,BB11833,"HP Laptop 250 G9 (i5, 8GB, 512GB SSD)",P11,HP 250 G9 Core i5 8 Go 512 Go,Informatique,0.92,354200.0,0.0,0,354200.0,En stock,True,True,,livraison offerte,4.48,748,2026-10-31
+Comptoir Ivoire,CI206,HP 250 G9 i5,P11,HP 250 G9 Core i5 8 Go 512 Go,Informatique,0.61,407000.0,0.0,0,407000.0,Stock limité,True,True,,retrait en boutique,,0,2026-10-10
+Marché Lagune,ML-1070,PC PORTABLE HP 250 G9 I5 8GB/512GB,P11,HP 250 G9 Core i5 8 Go 512 Go,Informatique,0.94,390800.0,0.0,0,390800.0,En stock,True,True,,livraison incluse,4.5,137,
+Baobab Shop,BB12319,"Lenovo IdeaPad 3 (i3, 8GB, 256GB SSD)",P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,Informatique,0.91,298200.0,0.0,0,298200.0,En stock,True,True,,livraison offerte,4.16,686,2026-10-31
+Comptoir Ivoire,CI207,Lenovo IdeaPad 3 i3,P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,Informatique,0.56,302500.0,5.0,0,287375.0,En stock,True,True,,retrait en boutique,,0,2026-10-31
+Marché Lagune,ML-1077,PC PORTABLE LENOVO IDEAPAD 3 I3 8GB/256GB,P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,Informatique,0.94,309400.0,0.0,0,309400.0,En stock,True,True,,livraison incluse,4.3,393,
+Comptoir Ivoire,CI208,Dell Inspiron 15 i5,P13,Dell Inspiron 15 Core i5 16 Go 512 Go,Informatique,0.56,451400.0,10.0,0,406260.0,En stock,True,True,,retrait en boutique,,0,2026-10-17
+Marché Lagune,ML-1084,PC PORTABLE DELL INSPIRON 15 I5 16GB/512GB,P13,Dell Inspiron 15 Core i5 16 Go 512 Go,Informatique,0.94,442900.0,0.0,0,442900.0,Rupture,False,False,rupture de stock,livraison incluse,4.8,279,
+Baobab Shop,BB14669,SanDisk Ultra USB 64GB,P14,Clé USB SanDisk 64 Go,Informatique,0.8,5800.0,0.0,1500,7300.0,Stock limité,True,True,,livraison payante,4.53,98,2026-10-31
+Comptoir Ivoire,CI209,Clé USB SanDisk 64Go,P14,Clé USB SanDisk 64 Go,Informatique,1.0,6200.0,0.0,0,6200.0,En stock,True,True,,retrait en boutique,,0,2026-10-31
+Marché Lagune,ML-1091,CLE USB SANDISK 64GB,P14,Clé USB SanDisk 64 Go,Informatique,1.0,6100.0,0.0,0,6100.0,En stock,True,True,,livraison incluse,3.6,306,
+Baobab Shop,BB15546,Seagate Expansion 1TB,P15,Disque dur externe Seagate 1 To,Informatique,0.59,36800.0,0.0,1500,38300.0,Stock limité,True,True,,livraison payante,4.36,777,2026-10-31
+Comptoir Ivoire,CI210,DD externe Seagate 1To,P15,Disque dur externe Seagate 1 To,Informatique,1.0,39500.0,0.0,0,39500.0,En stock,True,True,,retrait en boutique,,0,2026-10-24
+Marché Lagune,ML-1098,DISQUE DUR EXTERNE SEAGATE 1TB,P15,Disque dur externe Seagate 1 To,Informatique,1.0,37600.0,0.0,0,37600.0,En stock,True,True,,livraison incluse,4.8,401,
+Baobab Shop,BB16464,Logitech M185 Wireless Mouse,P16,Souris sans fil Logitech M185,Informatique,1.0,8700.0,0.0,1500,10200.0,Rupture,False,False,rupture de stock,livraison payante,4.3,108,2026-10-31
+Comptoir Ivoire,CI211,Souris Logitech M185,P16,Souris sans fil Logitech M185,Informatique,0.75,9200.0,0.0,0,9200.0,En stock,True,True,,retrait en boutique,,0,2026-10-10
+Marché Lagune,ML-1105,souris sans fil logitech m185,P16,Souris sans fil Logitech M185,Informatique,1.0,9200.0,0.0,0,9200.0,En stock,True,True,,livraison incluse,4.0,76,
+Baobab Shop,BB17618,HP DeskJet 2720e Printer,P17,Imprimante HP DeskJet 2720e,Informatique,1.0,44200.0,0.0,1500,45700.0,En stock,True,True,,livraison payante,4.2,65,2026-10-31
+Marché Lagune,ML-1112,IMPRIMANTE HP DESKJET 2720E,P17,Imprimante HP DeskJet 2720e,Informatique,1.0,44000.0,0.0,0,44000.0,En stock,True,True,,livraison incluse,4.8,199,
+Baobab Shop,BB18398,TP-Link Archer C6 AC1200,P18,Routeur TP-Link Archer C6,Informatique,0.71,27300.0,0.0,1500,28800.0,En stock,True,True,,livraison payante,3.64,64,2026-10-31
+Baobab Shop,BB19114,"Samsung 24"" Monitor",P19,Écran Samsung 24 pouces,Informatique,1.0,89300.0,0.0,1500,90800.0,En stock,True,True,,livraison payante,3.9,15,2026-10-31
+Marché Lagune,ML-1119,"ECRAN SAMSUNG 24""",P19,Écran Samsung 24 pouces,Informatique,1.0,,0.0,0,,En stock,True,False,prix non exploitable,livraison incluse,3.9,394,
+Baobab Shop,BB20158,Hisense Fridge 205L,P20,Réfrigérateur Hisense 205 L,Électroménager,1.0,180500.0,0.0,2500,183000.0,Stock limité,True,True,,livraison payante,3.24,125,2026-10-31
+Comptoir Ivoire,CI212,Frigo Hisense 205L,P20,Réfrigérateur Hisense 205 L,Électroménager,1.0,198100.0,15.0,0,168385.0,En stock,True,True,,retrait en boutique,,0,2026-10-10
+Marché Lagune,ML-1126,REFRIGERATEUR HISENSE 205L,P20,Réfrigérateur Hisense 205 L,Électroménager,1.0,186100.0,0.0,0,186100.0,En stock,True,True,,livraison incluse,4.4,230,
+Comptoir Ivoire,CI213,Congélateur Nasco 200L,P21,Congélateur Nasco 200 L,Électroménager,1.0,178500.0,15.0,0,151725.0,Stock limité,True,True,,retrait en boutique,,0,2026-10-10
+Marché Lagune,ML-1133,CONGELATEUR NASCO 200L,P21,Congélateur Nasco 200 L,Électroménager,1.0,176000.0,0.0,0,176000.0,En stock,True,True,,livraison incluse,4.1,238,
+Baobab Shop,BB22196,"Samsung 43"" Crystal UHD TV",P22,TV Samsung 43 pouces Crystal UHD,Électroménager,1.0,244400.0,0.0,0,244400.0,En stock,True,True,,livraison offerte,4.18,878,2026-10-31
+Comptoir Ivoire,CI214,"TV Samsung 43""",P22,TV Samsung 43 pouces Crystal UHD,Électroménager,0.75,254000.0,5.0,0,241300.0,Rupture,False,False,rupture de stock,retrait en boutique,,0,2026-10-31
+Marché Lagune,ML-1140,"TV SAMSUNG 43"" CRYSTAL UHD 4K",P22,TV Samsung 43 pouces Crystal UHD,Électroménager,0.84,251100.0,0.0,0,251100.0,En stock,True,True,,livraison incluse,4.1,172,
+Baobab Shop,BB23458,"Hisense 32"" TV",P23,TV Hisense 32 pouces,Électroménager,1.0,93500.0,0.0,2500,96000.0,En stock,True,True,,livraison payante,4.23,670,2026-10-31
+Comptoir Ivoire,CI215,"TV Hisense 32""",P23,TV Hisense 32 pouces,Électroménager,1.0,98600.0,10.0,0,88740.0,En stock,True,True,,retrait en boutique,,0,2026-10-24
+Marché Lagune,ML-1147,"TV HISENSE 32""",P23,TV Hisense 32 pouces,Électroménager,1.0,97300.0,0.0,0,97300.0,Rupture,False,False,rupture de stock,livraison incluse,4.4,35,
+Baobab Shop,BB24831,LG Air Conditioner 1HP,P24,Climatiseur LG 1 CV,Électroménager,1.0,253300.0,0.0,0,253300.0,En stock,True,True,,livraison offerte,4.77,323,2026-10-31
+Comptoir Ivoire,CI216,Clim LG 1CV,P24,Climatiseur LG 1 CV,Électroménager,1.0,279300.0,0.0,0,279300.0,En stock,True,True,,retrait en boutique,,0,2026-10-10
+Marché Lagune,ML-1154,CLIMATISEUR LG 1CV,P24,Climatiseur LG 1 CV,Électroménager,1.0,256600.0,0.0,0,256600.0,Stock limité,True,True,,livraison incluse,3.7,331,
+Comptoir Ivoire,CI217,"Ventilo Binatone 16""",P25,Ventilateur sur pied Binatone 16 pouces,Électroménager,0.86,23700.0,0.0,0,23700.0,Rupture,False,False,rupture de stock,retrait en boutique,,0,2026-10-03
+Marché Lagune,ML-1161,"VENTILATEUR BINATONE 16""",P25,Ventilateur sur pied Binatone 16 pouces,Électroménager,0.86,21800.0,0.0,0,21800.0,En stock,True,True,,livraison incluse,4.5,96,
+Baobab Shop,BB26722,Moulinex Blender 1.5L,P26,"Mixeur Moulinex 1,5 L",Électroménager,1.0,28400.0,0.0,2500,30900.0,Stock limité,True,True,,livraison payante,3.99,692,2026-10-31
+Comptoir Ivoire,CI218,Mixeur Moulinex,P26,"Mixeur Moulinex 1,5 L",Électroménager,0.5,29200.0,0.0,0,29200.0,En stock,True,True,,retrait en boutique,,0,2026-10-24
+Marché Lagune,ML-1168,MIXEUR MOULINEX 1.5L,P26,"Mixeur Moulinex 1,5 L",Électroménager,1.0,,0.0,0,,Rupture,False,False,rupture de stock,livraison incluse,4.7,66,
+Baobab Shop,BB27999,Philips Steam Iron,P27,Fer à repasser Philips,Électroménager,1.0,,0.0,2500,,Stock limité,True,False,prix non exploitable,livraison payante,3.84,513,2026-10-31
+Comptoir Ivoire,CI219,Fer Philips,P27,Fer à repasser Philips,Électroménager,0.75,15700.0,0.0,0,15700.0,En stock,True,True,,retrait en boutique,,0,2026-10-17
+Marché Lagune,ML-1175,FER A REPASSER PHILIPS,P27,Fer à repasser Philips,Électroménager,1.0,15700.0,0.0,0,15700.0,En stock,True,True,,livraison incluse,4.2,70,
+Baobab Shop,BB28797,Samsung Microwave 23L,P28,Micro-ondes Samsung 23 L,Électroménager,1.0,62900.0,0.0,2500,65400.0,En stock,True,True,,livraison payante,3.7,836,2026-10-31
+Comptoir Ivoire,CI220,Micro-ondes Samsung 23L,P28,Micro-ondes Samsung 23 L,Électroménager,1.0,68500.0,0.0,0,68500.0,En stock,True,True,,retrait en boutique,,0,2026-10-31
+Marché Lagune,ML-1182,MICRO-ONDES SAMSUNG 23L,P28,Micro-ondes Samsung 23 L,Électroménager,1.0,67200.0,0.0,0,67200.0,En stock,True,True,,livraison incluse,3.7,139,
+Baobab Shop,BB29464,Electric Kettle 1.7L,P29,"Bouilloire électrique 1,7 L",Électroménager,1.0,9100.0,0.0,2500,11600.0,Stock limité,True,True,,livraison payante,4.42,899,2026-10-31
+Comptoir Ivoire,CI221,"Bouilloire 1,7L",P29,"Bouilloire électrique 1,7 L",Électroménager,0.8,9200.0,0.0,0,9200.0,Stock limité,True,True,,retrait en boutique,,0,2026-10-31
+Baobab Shop,BB30124,Hisense Air Conditioner 1.5HP,P30,"Climatiseur Hisense 1,5 CV",Électroménager,1.0,287100.0,0.0,0,287100.0,Rupture,False,False,rupture de stock,livraison offerte,3.76,744,2026-10-31
+Marché Lagune,ML-1189,CLIMATISEUR HISENSE 1.5CV,P30,"Climatiseur Hisense 1,5 CV",Électroménager,1.0,309700.0,0.0,0,309700.0,Stock limité,True,True,,livraison incluse,4.7,196,

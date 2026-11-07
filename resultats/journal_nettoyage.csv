@@ -1,0 +1,35 @@
+source,reference,probleme,detail,action
+Marché Lagune,(fichier),Format,"BOM UTF-8, séparateur ';', fins de ligne CRLF, virgule décimale",lecture avec encoding='utf-8-sig' et sep=';'
+Marché Lagune,ML-1000,Doublon,ligne strictement identique à une ligne précédente,ligne supprimée
+Marché Lagune,ML-1147,Doublon,ligne strictement identique à une ligne précédente,ligne supprimée
+Marché Lagune,ML-1105,Espaces superflus,«   souris sans fil logitech m185  »,strip() appliqué
+Marché Lagune,ML-1105,Casse incohérente,« souris sans fil logitech m185 »,normalisation (minuscules sans accents) avant rapprochement
+Marché Lagune,ML-1000,Rupture de stock,SAMSUNG GALAXY A15 (128GB) : « Rupture »,offre non retenue
+Marché Lagune,ML-1014,Rupture de stock,SAMSUNG GALAXY A55 (256GB) : « Rupture »,offre non retenue
+Marché Lagune,ML-1049,Rupture de stock,ITEL A70 64GB : « Rupture »,offre non retenue
+Marché Lagune,ML-1084,Rupture de stock,PC PORTABLE DELL INSPIRON 15 I5 16GB/512GB : « Rupture »,offre non retenue
+Marché Lagune,ML-1119,Prix non exploitable,prix = « Prix sur demande »,prix mis à vide : offre non retenue pour le « moins cher »
+Marché Lagune,ML-1147,Rupture de stock,"TV HISENSE 32"" : « Rupture »",offre non retenue
+Marché Lagune,ML-1168,Prix non exploitable,prix = « (vide) »,prix mis à vide : offre non retenue pour le « moins cher »
+Marché Lagune,ML-1168,Rupture de stock,MIXEUR MOULINEX 1.5L : « Rupture »,offre non retenue
+Baobab Shop,BB03433,Rupture de stock,Galaxy A55 256GB - Samsung : stock = 0,offre non retenue
+Baobab Shop,BB07953,Note peu fiable,27 avis seulement,"conservé, signalé (information)"
+Baobab Shop,BB16464,Rupture de stock,Logitech M185 Wireless Mouse : stock = 0,offre non retenue
+Baobab Shop,BB19114,Note peu fiable,15 avis seulement,"conservé, signalé (information)"
+Baobab Shop,BB27999,Prix non exploitable,Philips Steam Iron : amount = null,offre non retenue pour le « moins cher »
+Baobab Shop,BB30124,Rupture de stock,Hisense Air Conditioner 1.5HP : stock = 0,offre non retenue
+Baobab Shop,(fichier),Information,8 articles vendus par un « Partenaire vérifié » (pas par Baobab),conservés (même prix payé par le client)
+Comptoir Ivoire,(fichier),Format,"titre en ligne 1, ligne 2 vide, en-têtes en ligne 3",lecture avec header=2
+Comptoir Ivoire,CI200,Prix potentiellement ancien,mis à jour il y a 28 jours,"conservé, signalé (information)"
+Comptoir Ivoire,CI202,Prix potentiellement ancien,mis à jour il y a 28 jours,"conservé, signalé (information)"
+Comptoir Ivoire,CI204,Prix potentiellement ancien,mis à jour il y a 28 jours,"conservé, signalé (information)"
+Comptoir Ivoire,CI205,Prix potentiellement ancien,mis à jour il y a 28 jours,"conservé, signalé (information)"
+Comptoir Ivoire,CI214,Rupture de stock,"TV Samsung 43"" : quantité en rayon = 0",offre non retenue
+Comptoir Ivoire,CI216,Prix stocké en texte,« '279\u202f300' » (espace fine insécable),converti en entier
+Comptoir Ivoire,CI217,Rupture de stock,"Ventilo Binatone 16"" : quantité en rayon = 0",offre non retenue
+Comptoir Ivoire,CI217,Prix potentiellement ancien,mis à jour il y a 28 jours,"conservé, signalé (information)"
+Comptoir Ivoire,CI200,Faute de frappe,« samsun » reconnu comme « samsung »,corrigé par similarité de chaînes (difflib)
+Marché Lagune,ML-1021,Prix aberrant (zéro en trop),779 000 = 9.9x la valeur de l'historique et supérieur à l'ancien prix (88 700),corrigé en 77 900 (confirmé par l'historique ~78 500)
+Marché Lagune,ML-1119,Prix de référence (historique),prix du fichier absent ; l'historique donne ~98 700 FCFA,NON utilisé (on n'invente pas un prix) : offre exclue
+Marché Lagune,ML-1168,Prix de référence (historique),prix du fichier absent ; l'historique donne ~29 600 FCFA,NON utilisé (on n'invente pas un prix) : offre exclue
+Baobab Shop,BB27999,Prix de référence (historique),prix du fichier absent ; l'historique donne ~14 300 FCFA,NON utilisé (on n'invente pas un prix) : offre exclue

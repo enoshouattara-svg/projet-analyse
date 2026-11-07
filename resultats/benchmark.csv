@@ -1,0 +1,11 @@
+tâche,méthode,secondes,complexité,millisecondes
+Chargement,module csv (liste de tuples),0.032610800000838935,O(n),32.611
+Chargement,pandas.read_csv,0.0051129000494256616,O(n),5.113
+500 recherches exactes,balayage de la liste,0.20267950010020286,O(n·q),202.68
+500 recherches exactes,filtre pandas,1.0372779000317678,O(n·q),1037.278
+500 recherches exactes,dictionnaire (+ construction),0.0026458001229912043,O(n + q),2.646
+500 recherches exactes,dictionnaire (recherche seule),2.410006709396839e-05,O(q),0.024
+500 « prix à la date D »,balayage séquentiel,0.0005513000069186091,O(m·q),0.551
+500 « prix à la date D »,listes triées + bisect,8.389994036406279e-05,O(q·log m),0.084
+Agrégation Black Friday,boucle Python + dict,0.001271400018595159,O(n),1.271
+Agrégation Black Friday,pandas groupby,0.0008078999817371368,O(n),0.808

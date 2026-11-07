@@ -1,0 +1,24 @@
+produit_id,nom,categorie,prix_marche_lagune,prix_baobab_shop,prix_comptoir_ivoire,nb_offres,moins_cher,prix_min,prix_max,ecart_fcfa,ecart_pct,offres_ecartees
+P01,Samsung Galaxy A15 128 Go,Smartphone,,104000.0,92990.0,2,Comptoir Ivoire,92990.0,104000.0,11010.0,11.8,Marché Lagune (rupture de stock)
+P02,Samsung Galaxy A25 128 Go,Smartphone,151500.0,142000.0,150300.0,3,Baobab Shop,142000.0,151500.0,9500.0,6.7,
+P04,Tecno Spark 20 128 Go,Smartphone,77900.0,75000.0,76300.0,3,Baobab Shop,75000.0,77900.0,2900.0,3.9,
+P05,Tecno Camon 30 256 Go,Smartphone,136900.0,135400.0,,2,Baobab Shop,135400.0,136900.0,1500.0,1.1,
+P06,Infinix Hot 40i 128 Go,Smartphone,69200.0,69500.0,67165.0,3,Comptoir Ivoire,67165.0,69500.0,2335.0,3.5,
+P07,Infinix Note 40 256 Go,Smartphone,132400.0,132700.0,,2,Marché Lagune,132400.0,132700.0,300.0,0.2,
+P09,Apple iPhone 13 128 Go,Smartphone,433700.0,417200.0,443700.0,3,Baobab Shop,417200.0,443700.0,26500.0,6.4,
+P10,Xiaomi Redmi Note 13 128 Go,Smartphone,136900.0,134100.0,,2,Baobab Shop,134100.0,136900.0,2800.0,2.1,
+P11,HP 250 G9 Core i5 8 Go 512 Go,Informatique,390800.0,354200.0,407000.0,3,Baobab Shop,354200.0,407000.0,52800.0,14.9,
+P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,Informatique,309400.0,298200.0,287375.0,3,Comptoir Ivoire,287375.0,309400.0,22025.0,7.7,
+P14,Clé USB SanDisk 64 Go,Informatique,6100.0,7300.0,6200.0,3,Marché Lagune,6100.0,7300.0,1200.0,19.7,
+P15,Disque dur externe Seagate 1 To,Informatique,37600.0,38300.0,39500.0,3,Marché Lagune,37600.0,39500.0,1900.0,5.1,
+P16,Souris sans fil Logitech M185,Informatique,9200.0,,9200.0,2,Marché Lagune / Comptoir Ivoire,9200.0,9200.0,0.0,0.0,Baobab Shop (rupture de stock)
+P17,Imprimante HP DeskJet 2720e,Informatique,44000.0,45700.0,,2,Marché Lagune,44000.0,45700.0,1700.0,3.9,
+P20,Réfrigérateur Hisense 205 L,Électroménager,186100.0,183000.0,168385.0,3,Comptoir Ivoire,168385.0,186100.0,17715.0,10.5,
+P21,Congélateur Nasco 200 L,Électroménager,176000.0,,151725.0,2,Comptoir Ivoire,151725.0,176000.0,24275.0,16.0,
+P22,TV Samsung 43 pouces Crystal UHD,Électroménager,251100.0,244400.0,,2,Baobab Shop,244400.0,251100.0,6700.0,2.7,Comptoir Ivoire (rupture de stock)
+P23,TV Hisense 32 pouces,Électroménager,,96000.0,88740.0,2,Comptoir Ivoire,88740.0,96000.0,7260.0,8.2,Marché Lagune (rupture de stock)
+P24,Climatiseur LG 1 CV,Électroménager,256600.0,253300.0,279300.0,3,Baobab Shop,253300.0,279300.0,26000.0,10.3,
+P26,"Mixeur Moulinex 1,5 L",Électroménager,,30900.0,29200.0,2,Comptoir Ivoire,29200.0,30900.0,1700.0,5.8,Marché Lagune (rupture de stock)
+P27,Fer à repasser Philips,Électroménager,15700.0,,15700.0,2,Marché Lagune / Comptoir Ivoire,15700.0,15700.0,0.0,0.0,Baobab Shop (prix non exploitable)
+P28,Micro-ondes Samsung 23 L,Électroménager,67200.0,65400.0,68500.0,3,Baobab Shop,65400.0,68500.0,3100.0,4.7,
+P29,"Bouilloire électrique 1,7 L",Électroménager,,11600.0,9200.0,2,Comptoir Ivoire,9200.0,11600.0,2400.0,26.1,

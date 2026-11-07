@@ -1,0 +1,77 @@
+enseigne,ref_source,libelle_brut,produit_id,nom,score_rapprochement
+Baobab Shop,BB01412,Galaxy A15 128GB - Samsung,P01,Samsung Galaxy A15 128 Go,1.0
+Comptoir Ivoire,CI200,Samsun Galaxy A15 128Go,P01,Samsung Galaxy A15 128 Go,1.0
+Marché Lagune,ML-1000,SAMSUNG GALAXY A15 (128GB),P01,Samsung Galaxy A15 128 Go,1.0
+Baobab Shop,BB02609,Galaxy A25 128GB - Samsung,P02,Samsung Galaxy A25 128 Go,1.0
+Comptoir Ivoire,CI201,Samsung A25 128Go,P02,Samsung Galaxy A25 128 Go,0.89
+Marché Lagune,ML-1007,SAMSUNG GALAXY A25 (128GB),P02,Samsung Galaxy A25 128 Go,1.0
+Baobab Shop,BB03433,Galaxy A55 256GB - Samsung,P03,Samsung Galaxy A55 256 Go,1.0
+Marché Lagune,ML-1014,SAMSUNG GALAXY A55 (256GB),P03,Samsung Galaxy A55 256 Go,1.0
+Baobab Shop,BB04915,Spark 20 128GB - Tecno,P04,Tecno Spark 20 128 Go,1.0
+Comptoir Ivoire,CI202,Tecno Spark 20,P04,Tecno Spark 20 128 Go,0.67
+Marché Lagune,ML-1021,TECNO SPARK 20 - 128GB,P04,Tecno Spark 20 128 Go,1.0
+Baobab Shop,BB05319,Camon 30 256GB - Tecno,P05,Tecno Camon 30 256 Go,1.0
+Marché Lagune,ML-1028,TECNO CAMON 30 - 256GB,P05,Tecno Camon 30 256 Go,1.0
+Baobab Shop,BB06565,Hot 40i 128GB - Infinix,P06,Infinix Hot 40i 128 Go,1.0
+Comptoir Ivoire,CI203,Infinix Hot 40i,P06,Infinix Hot 40i 128 Go,0.67
+Marché Lagune,ML-1035,INFINIX HOT 40I 128GB,P06,Infinix Hot 40i 128 Go,1.0
+Baobab Shop,BB07953,Note 40 256GB - Infinix,P07,Infinix Note 40 256 Go,1.0
+Marché Lagune,ML-1042,INFINIX NOTE 40 256GB,P07,Infinix Note 40 256 Go,1.0
+Comptoir Ivoire,CI204,Itel A70,P08,Itel A70 64 Go,0.62
+Marché Lagune,ML-1049,ITEL A70 64GB,P08,Itel A70 64 Go,1.0
+Baobab Shop,BB09460,iPhone 13 128GB - Apple,P09,Apple iPhone 13 128 Go,1.0
+Comptoir Ivoire,CI205,iPhone 13 128Go,P09,Apple iPhone 13 128 Go,0.78
+Marché Lagune,ML-1056,IPHONE 13 128GB,P09,Apple iPhone 13 128 Go,0.78
+Baobab Shop,BB10686,Redmi Note 13 128GB - Xiaomi,P10,Xiaomi Redmi Note 13 128 Go,1.0
+Marché Lagune,ML-1063,XIAOMI REDMI NOTE 13 128GB,P10,Xiaomi Redmi Note 13 128 Go,1.0
+Baobab Shop,BB11833,"HP Laptop 250 G9 (i5, 8GB, 512GB SSD)",P11,HP 250 G9 Core i5 8 Go 512 Go,0.92
+Comptoir Ivoire,CI206,HP 250 G9 i5,P11,HP 250 G9 Core i5 8 Go 512 Go,0.61
+Marché Lagune,ML-1070,PC PORTABLE HP 250 G9 I5 8GB/512GB,P11,HP 250 G9 Core i5 8 Go 512 Go,0.94
+Baobab Shop,BB12319,"Lenovo IdeaPad 3 (i3, 8GB, 256GB SSD)",P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,0.91
+Comptoir Ivoire,CI207,Lenovo IdeaPad 3 i3,P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,0.56
+Marché Lagune,ML-1077,PC PORTABLE LENOVO IDEAPAD 3 I3 8GB/256GB,P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,0.94
+Comptoir Ivoire,CI208,Dell Inspiron 15 i5,P13,Dell Inspiron 15 Core i5 16 Go 512 Go,0.56
+Marché Lagune,ML-1084,PC PORTABLE DELL INSPIRON 15 I5 16GB/512GB,P13,Dell Inspiron 15 Core i5 16 Go 512 Go,0.94
+Baobab Shop,BB14669,SanDisk Ultra USB 64GB,P14,Clé USB SanDisk 64 Go,0.8
+Comptoir Ivoire,CI209,Clé USB SanDisk 64Go,P14,Clé USB SanDisk 64 Go,1.0
+Marché Lagune,ML-1091,CLE USB SANDISK 64GB,P14,Clé USB SanDisk 64 Go,1.0
+Baobab Shop,BB15546,Seagate Expansion 1TB,P15,Disque dur externe Seagate 1 To,0.59
+Comptoir Ivoire,CI210,DD externe Seagate 1To,P15,Disque dur externe Seagate 1 To,1.0
+Marché Lagune,ML-1098,DISQUE DUR EXTERNE SEAGATE 1TB,P15,Disque dur externe Seagate 1 To,1.0
+Baobab Shop,BB16464,Logitech M185 Wireless Mouse,P16,Souris sans fil Logitech M185,1.0
+Comptoir Ivoire,CI211,Souris Logitech M185,P16,Souris sans fil Logitech M185,0.75
+Marché Lagune,ML-1105,souris sans fil logitech m185,P16,Souris sans fil Logitech M185,1.0
+Baobab Shop,BB17618,HP DeskJet 2720e Printer,P17,Imprimante HP DeskJet 2720e,1.0
+Marché Lagune,ML-1112,IMPRIMANTE HP DESKJET 2720E,P17,Imprimante HP DeskJet 2720e,1.0
+Baobab Shop,BB18398,TP-Link Archer C6 AC1200,P18,Routeur TP-Link Archer C6,0.71
+Baobab Shop,BB19114,"Samsung 24"" Monitor",P19,Écran Samsung 24 pouces,1.0
+Marché Lagune,ML-1119,"ECRAN SAMSUNG 24""",P19,Écran Samsung 24 pouces,1.0
+Baobab Shop,BB20158,Hisense Fridge 205L,P20,Réfrigérateur Hisense 205 L,1.0
+Comptoir Ivoire,CI212,Frigo Hisense 205L,P20,Réfrigérateur Hisense 205 L,1.0
+Marché Lagune,ML-1126,REFRIGERATEUR HISENSE 205L,P20,Réfrigérateur Hisense 205 L,1.0
+Comptoir Ivoire,CI213,Congélateur Nasco 200L,P21,Congélateur Nasco 200 L,1.0
+Marché Lagune,ML-1133,CONGELATEUR NASCO 200L,P21,Congélateur Nasco 200 L,1.0
+Baobab Shop,BB22196,"Samsung 43"" Crystal UHD TV",P22,TV Samsung 43 pouces Crystal UHD,1.0
+Comptoir Ivoire,CI214,"TV Samsung 43""",P22,TV Samsung 43 pouces Crystal UHD,0.75
+Marché Lagune,ML-1140,"TV SAMSUNG 43"" CRYSTAL UHD 4K",P22,TV Samsung 43 pouces Crystal UHD,0.84
+Baobab Shop,BB23458,"Hisense 32"" TV",P23,TV Hisense 32 pouces,1.0
+Comptoir Ivoire,CI215,"TV Hisense 32""",P23,TV Hisense 32 pouces,1.0
+Marché Lagune,ML-1147,"TV HISENSE 32""",P23,TV Hisense 32 pouces,1.0
+Baobab Shop,BB24831,LG Air Conditioner 1HP,P24,Climatiseur LG 1 CV,1.0
+Comptoir Ivoire,CI216,Clim LG 1CV,P24,Climatiseur LG 1 CV,1.0
+Marché Lagune,ML-1154,CLIMATISEUR LG 1CV,P24,Climatiseur LG 1 CV,1.0
+Comptoir Ivoire,CI217,"Ventilo Binatone 16""",P25,Ventilateur sur pied Binatone 16 pouces,0.86
+Marché Lagune,ML-1161,"VENTILATEUR BINATONE 16""",P25,Ventilateur sur pied Binatone 16 pouces,0.86
+Baobab Shop,BB26722,Moulinex Blender 1.5L,P26,"Mixeur Moulinex 1,5 L",1.0
+Comptoir Ivoire,CI218,Mixeur Moulinex,P26,"Mixeur Moulinex 1,5 L",0.5
+Marché Lagune,ML-1168,MIXEUR MOULINEX 1.5L,P26,"Mixeur Moulinex 1,5 L",1.0
+Baobab Shop,BB27999,Philips Steam Iron,P27,Fer à repasser Philips,1.0
+Comptoir Ivoire,CI219,Fer Philips,P27,Fer à repasser Philips,0.75
+Marché Lagune,ML-1175,FER A REPASSER PHILIPS,P27,Fer à repasser Philips,1.0
+Baobab Shop,BB28797,Samsung Microwave 23L,P28,Micro-ondes Samsung 23 L,1.0
+Comptoir Ivoire,CI220,Micro-ondes Samsung 23L,P28,Micro-ondes Samsung 23 L,1.0
+Marché Lagune,ML-1182,MICRO-ONDES SAMSUNG 23L,P28,Micro-ondes Samsung 23 L,1.0
+Baobab Shop,BB29464,Electric Kettle 1.7L,P29,"Bouilloire électrique 1,7 L",1.0
+Comptoir Ivoire,CI221,"Bouilloire 1,7L",P29,"Bouilloire électrique 1,7 L",0.8
+Baobab Shop,BB30124,Hisense Air Conditioner 1.5HP,P30,"Climatiseur Hisense 1,5 CV",1.0
+Marché Lagune,ML-1189,CLIMATISEUR HISENSE 1.5CV,P30,"Climatiseur Hisense 1,5 CV",1.0
